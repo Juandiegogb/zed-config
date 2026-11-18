@@ -1,0 +1,61 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "project_panel": {
+    "hide_gitignore": true
+  },
+  "agent": {
+    "threads_sidebar": {
+      "auto_open": false
+    },
+    "favorite_models": [],
+    "model_parameters": []
+  },
+  "tabs": {
+    "file_icons": true
+  },
+  "git_panel": {
+    "file_icons": true
+  },
+  "toolbar": {
+    "code_actions": false,
+    "agent_review": false,
+    "selections_menu": false,
+    "quick_actions": false,
+    "breadcrumbs": false
+  },
+  "terminal": {
+    "toolbar": {
+      "breadcrumbs": false
+    }
+  },
+  "vim_mode": false,
+  "icon_theme": "Zed (Default)",
+  "autosave": "on_focus_change",
+  "rounded_selection": true,
+  "current_line_highlight": "none",
+  "reduce_motion": "off",
+  "cursor_shape": "bar",
+  "cursor_animation": {
+    "enabled": true
+  },
+  "agent_buffer_font_size": 14.0,
+  "ui_font_weight": 600.0,
+  "ui_font_family": "JetBrainsMono Nerd Font",
+  "buffer_line_height": "standard",
+  "buffer_font_weight": 600.0,
+  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "ui_font_size": 14.0,
+  "buffer_font_size": 14.0,
+  "theme": {
+    "mode": "system",
+    "light": "One Dark",
+    "dark": "Andromeda Dark Italic"
+  },
+}
